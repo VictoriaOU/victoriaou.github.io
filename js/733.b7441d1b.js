@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpro_index"]=self["webpackChunkpro_index"]||[]).push([[733],{8733:function(e,t,i){i.r(t),i.d(t,{default:function(){return c}});var n=function(){var e=this,t=e._self._c;return t("div",[t("vue-quill-editor",{on:{saveFile:e.saveFile}})],1)},u=[],l=i(8223),r=i(8349),s=i(4038),o={components:{EditBar:r.Z,VueQuillEditor:s.Z},methods:{saveFile(){l.Z.getPdf("newFile",this.$route.path)}}},a=o,d=i(1001),f=(0,d.Z)(a,n,u,!1,null,"ad7b5f56",null),c=f.exports}}]);
+//# sourceMappingURL=733.b7441d1b.js.map
