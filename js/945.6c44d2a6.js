@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunknovelapagina"]=self["webpackChunknovelapagina"]||[]).push([[945],{7945:function(n,a,e){e.r(a),e.d(a,{default:function(){return s}});var t=function(){var n=this,a=n._self._c;return a("div",{staticClass:"box"},n._l(n.fileName,(function(e,t){return a("div",{key:t},[a("a",{attrs:{href:e+".pdf",download:""}},[n._v(n._s(e))])])})),0)},l=[],r={data(){return{fileName:["我不会向你道别","最佳防疫守则","从怒火中烧开始","最后的纽带","爱神的迷宫"]}}},u=r,f=e(1001),i=(0,f.Z)(u,t,l,!1,null,"f8cbcb26",null),s=i.exports}}]);
+//# sourceMappingURL=945.6c44d2a6.js.map
