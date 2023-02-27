@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunknovelapagina"]=self["webpackChunknovelapagina"]||[]).push([[117],{2045:function(a,n,e){e.r(n),e.d(n,{default:function(){return s}});var t=function(){var a=this,n=a._self._c;return n("div",{staticClass:"box"},a._l(a.fileName,(function(e,t){return n("div",{key:t},[n("a",{attrs:{href:e+".pdf",download:""}},[a._v(a._s(e))])])})),0)},l=[],r={data(){return{fileName:["我不会向你道别","最佳防疫守则","从怒火中烧开始"]}}},u=r,f=e(1001),i=(0,f.Z)(u,t,l,!1,null,"c0fbc39a",null),s=i.exports}}]);
+//# sourceMappingURL=117.f8f485c3.js.map
