@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunknovelapagina"]=self["webpackChunknovelapagina"]||[]).push([[492],{4492:function(t,e,n){n.r(e),n.d(e,{default:function(){return i}});var a=function(){var t=this,e=t._self._c;return e("div",{staticClass:"article"})},u=[],l={data(){return{article:""}},methods:{getDocument(){}},mounted(){this.getDocument()}},r=l,s=n(1001),c=(0,s.Z)(r,a,u,!1,null,"464936f0",null),i=c.exports}}]);
+//# sourceMappingURL=492.17c3f771.js.map
