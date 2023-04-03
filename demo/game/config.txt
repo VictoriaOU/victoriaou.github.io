@@ -1,0 +1,4 @@
+Game_name:今天开始我们(ver.1);
+Game_key:t37line;
+Title_img:v2-c1c076a21b357c6563433141e3afc010_r.jpg;
+Title_bgm:for_title_PROMISE.mp3;
